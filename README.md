@@ -56,14 +56,6 @@ mpiexec -n <总进程数> pddrive3d -r <行进程数> -c <列进程数> -d <Z维
 
 
 
-~~~
-git remote add origin https://github.com/ghorses10/24SYSU_CA.git
-git branch -M main
-git push -u origin main
-~~~
-
-
-
 
 
 
